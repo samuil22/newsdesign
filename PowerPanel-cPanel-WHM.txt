@@ -1,0 +1,20 @@
+Power Panel (VZ):   https://192.254.199.222:4643/vz/cp
+Your Domain:     egi.egiye-cholo.com
+Your Username:  root
+Your Password:  s6=6Nw*WrhByV5ZQtu
+Your site's IP address:
+192.254.199.222
+
+Cpanel: egiye-cholo.com/cpanel
+user:egiyecholo
+pass: u=PE8nG4eYAZmBtASN
+
+Since you have chosen to install cPanel on your server, your information is below:
+WHM Address: http://192.254.199.222:2086
+Username: root
+Password: s6=6Nw*WrhByV5ZQtu
+cPanel License ID: 47175911
+
+Your name servers that must be registered are:
+ns1.egiye-cholo.com (192.254.199.222)
+ns2.egiye-cholo.com (192.254.177.205)
